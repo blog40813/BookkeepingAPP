@@ -77,18 +77,19 @@
             this.label1.BackColor = System.Drawing.Color.MediumTurquoise;
             this.label1.Font = new System.Drawing.Font("微軟正黑體", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.label1.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.label1.Location = new System.Drawing.Point(52, 466);
+            this.label1.Location = new System.Drawing.Point(46, 388);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(81, 40);
+            this.label1.Size = new System.Drawing.Size(69, 35);
             this.label1.TabIndex = 0;
             this.label1.Text = "金額";
             // 
             // txtmoney
             // 
             this.txtmoney.Font = new System.Drawing.Font("微軟正黑體", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.txtmoney.Location = new System.Drawing.Point(225, 467);
+            this.txtmoney.Location = new System.Drawing.Point(200, 389);
+            this.txtmoney.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txtmoney.Name = "txtmoney";
-            this.txtmoney.Size = new System.Drawing.Size(201, 45);
+            this.txtmoney.Size = new System.Drawing.Size(179, 39);
             this.txtmoney.TabIndex = 1;
             // 
             // label2
@@ -97,9 +98,9 @@
             this.label2.BackColor = System.Drawing.Color.MediumTurquoise;
             this.label2.Font = new System.Drawing.Font("微軟正黑體", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.label2.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.label2.Location = new System.Drawing.Point(52, 100);
+            this.label2.Location = new System.Drawing.Point(46, 83);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(81, 40);
+            this.label2.Size = new System.Drawing.Size(69, 35);
             this.label2.TabIndex = 2;
             this.label2.Text = "類別";
             // 
@@ -108,9 +109,9 @@
             this.lblfood.AutoSize = true;
             this.lblfood.Font = new System.Drawing.Font("微軟正黑體", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.lblfood.ForeColor = System.Drawing.Color.LightCoral;
-            this.lblfood.Location = new System.Drawing.Point(221, 165);
+            this.lblfood.Location = new System.Drawing.Point(196, 138);
             this.lblfood.Name = "lblfood";
-            this.lblfood.Size = new System.Drawing.Size(62, 31);
+            this.lblfood.Size = new System.Drawing.Size(52, 25);
             this.lblfood.TabIndex = 4;
             this.lblfood.Text = "食物";
             // 
@@ -119,9 +120,9 @@
             this.lbltraffic.AutoSize = true;
             this.lbltraffic.Font = new System.Drawing.Font("微軟正黑體", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.lbltraffic.ForeColor = System.Drawing.Color.Maroon;
-            this.lbltraffic.Location = new System.Drawing.Point(221, 224);
+            this.lbltraffic.Location = new System.Drawing.Point(196, 187);
             this.lbltraffic.Name = "lbltraffic";
-            this.lbltraffic.Size = new System.Drawing.Size(62, 31);
+            this.lbltraffic.Size = new System.Drawing.Size(52, 25);
             this.lbltraffic.TabIndex = 10;
             this.lbltraffic.Text = "交通";
             // 
@@ -130,9 +131,9 @@
             this.lblentertainment.AutoSize = true;
             this.lblentertainment.Font = new System.Drawing.Font("微軟正黑體", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.lblentertainment.ForeColor = System.Drawing.Color.MediumPurple;
-            this.lblentertainment.Location = new System.Drawing.Point(221, 281);
+            this.lblentertainment.Location = new System.Drawing.Point(196, 234);
             this.lblentertainment.Name = "lblentertainment";
-            this.lblentertainment.Size = new System.Drawing.Size(62, 31);
+            this.lblentertainment.Size = new System.Drawing.Size(52, 25);
             this.lblentertainment.TabIndex = 16;
             this.lblentertainment.Text = "娛樂";
             // 
@@ -142,18 +143,19 @@
             this.label6.BackColor = System.Drawing.Color.MediumTurquoise;
             this.label6.Font = new System.Drawing.Font("微軟正黑體", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.label6.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.label6.Location = new System.Drawing.Point(52, 549);
+            this.label6.Location = new System.Drawing.Point(46, 458);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(81, 40);
+            this.label6.Size = new System.Drawing.Size(69, 35);
             this.label6.TabIndex = 18;
             this.label6.Text = "備註";
             // 
             // txtps
             // 
             this.txtps.Font = new System.Drawing.Font("微軟正黑體", 14F);
-            this.txtps.Location = new System.Drawing.Point(225, 549);
+            this.txtps.Location = new System.Drawing.Point(200, 458);
+            this.txtps.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txtps.Name = "txtps";
-            this.txtps.Size = new System.Drawing.Size(402, 45);
+            this.txtps.Size = new System.Drawing.Size(358, 39);
             this.txtps.TabIndex = 19;
             // 
             // lblout
@@ -161,9 +163,9 @@
             this.lblout.AutoSize = true;
             this.lblout.Font = new System.Drawing.Font("微軟正黑體", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.lblout.ForeColor = System.Drawing.Color.DarkCyan;
-            this.lblout.Location = new System.Drawing.Point(144, 161);
+            this.lblout.Location = new System.Drawing.Point(128, 134);
             this.lblout.Name = "lblout";
-            this.lblout.Size = new System.Drawing.Size(71, 36);
+            this.lblout.Size = new System.Drawing.Size(62, 31);
             this.lblout.TabIndex = 20;
             this.lblout.Text = "支出";
             // 
@@ -172,9 +174,10 @@
             this.button16.BackColor = System.Drawing.Color.LightSeaGreen;
             this.button16.Font = new System.Drawing.Font("微軟正黑體", 14F, System.Drawing.FontStyle.Bold);
             this.button16.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.button16.Location = new System.Drawing.Point(675, 546);
+            this.button16.Location = new System.Drawing.Point(600, 455);
+            this.button16.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button16.Name = "button16";
-            this.button16.Size = new System.Drawing.Size(160, 49);
+            this.button16.Size = new System.Drawing.Size(142, 41);
             this.button16.TabIndex = 25;
             this.button16.Text = "新增";
             this.button16.UseVisualStyleBackColor = false;
@@ -184,9 +187,9 @@
             // 
             this.lblliving.AutoSize = true;
             this.lblliving.Font = new System.Drawing.Font("微軟正黑體", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.lblliving.Location = new System.Drawing.Point(221, 334);
+            this.lblliving.Location = new System.Drawing.Point(196, 278);
             this.lblliving.Name = "lblliving";
-            this.lblliving.Size = new System.Drawing.Size(62, 31);
+            this.lblliving.Size = new System.Drawing.Size(52, 25);
             this.lblliving.TabIndex = 26;
             this.lblliving.Text = "生活";
             // 
@@ -196,9 +199,9 @@
             this.label3.BackColor = System.Drawing.Color.MediumTurquoise;
             this.label3.Font = new System.Drawing.Font("微軟正黑體", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.label3.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.label3.Location = new System.Drawing.Point(52, 27);
+            this.label3.Location = new System.Drawing.Point(46, 22);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(81, 40);
+            this.label3.Size = new System.Drawing.Size(69, 35);
             this.label3.TabIndex = 33;
             this.label3.Text = "日期";
             // 
@@ -206,18 +209,19 @@
             // 
             this.cboYear.Font = new System.Drawing.Font("微軟正黑體", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.cboYear.FormattingEnabled = true;
-            this.cboYear.Location = new System.Drawing.Point(225, 27);
+            this.cboYear.Location = new System.Drawing.Point(200, 22);
+            this.cboYear.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.cboYear.Name = "cboYear";
-            this.cboYear.Size = new System.Drawing.Size(201, 44);
+            this.cboYear.Size = new System.Drawing.Size(179, 37);
             this.cboYear.TabIndex = 34;
             // 
             // label4
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("微軟正黑體", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.label4.Location = new System.Drawing.Point(438, 31);
+            this.label4.Location = new System.Drawing.Point(389, 26);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(43, 36);
+            this.label4.Size = new System.Drawing.Size(38, 31);
             this.label4.TabIndex = 35;
             this.label4.Text = "年";
             // 
@@ -225,9 +229,10 @@
             // 
             this.cboMonth.Font = new System.Drawing.Font("微軟正黑體", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.cboMonth.FormattingEnabled = true;
-            this.cboMonth.Location = new System.Drawing.Point(487, 28);
+            this.cboMonth.Location = new System.Drawing.Point(433, 23);
+            this.cboMonth.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.cboMonth.Name = "cboMonth";
-            this.cboMonth.Size = new System.Drawing.Size(140, 44);
+            this.cboMonth.Size = new System.Drawing.Size(125, 37);
             this.cboMonth.TabIndex = 36;
             this.cboMonth.SelectedIndexChanged += new System.EventHandler(this.cboMonth_SelectedIndexChanged);
             // 
@@ -235,9 +240,9 @@
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("微軟正黑體", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.label5.Location = new System.Drawing.Point(639, 31);
+            this.label5.Location = new System.Drawing.Point(568, 26);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(43, 36);
+            this.label5.Size = new System.Drawing.Size(38, 31);
             this.label5.TabIndex = 37;
             this.label5.Text = "月";
             // 
@@ -245,18 +250,19 @@
             // 
             this.cboDay.Font = new System.Drawing.Font("微軟正黑體", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.cboDay.FormattingEnabled = true;
-            this.cboDay.Location = new System.Drawing.Point(693, 28);
+            this.cboDay.Location = new System.Drawing.Point(616, 23);
+            this.cboDay.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.cboDay.Name = "cboDay";
-            this.cboDay.Size = new System.Drawing.Size(142, 44);
+            this.cboDay.Size = new System.Drawing.Size(127, 37);
             this.cboDay.TabIndex = 38;
             // 
             // label7
             // 
             this.label7.AutoSize = true;
             this.label7.Font = new System.Drawing.Font("微軟正黑體", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.label7.Location = new System.Drawing.Point(841, 30);
+            this.label7.Location = new System.Drawing.Point(748, 25);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(43, 36);
+            this.label7.Size = new System.Drawing.Size(38, 31);
             this.label7.TabIndex = 39;
             this.label7.Text = "日";
             // 
@@ -264,9 +270,10 @@
             // 
             this.radioButton1.AutoSize = true;
             this.radioButton1.Font = new System.Drawing.Font("微軟正黑體", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.radioButton1.Location = new System.Drawing.Point(298, 163);
+            this.radioButton1.Location = new System.Drawing.Point(265, 136);
+            this.radioButton1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.radioButton1.Name = "radioButton1";
-            this.radioButton1.Size = new System.Drawing.Size(87, 35);
+            this.radioButton1.Size = new System.Drawing.Size(73, 29);
             this.radioButton1.TabIndex = 40;
             this.radioButton1.TabStop = true;
             this.radioButton1.Text = "早餐";
@@ -277,9 +284,10 @@
             // 
             this.radioButton2.AutoSize = true;
             this.radioButton2.Font = new System.Drawing.Font("微軟正黑體", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.radioButton2.Location = new System.Drawing.Point(394, 163);
+            this.radioButton2.Location = new System.Drawing.Point(350, 136);
+            this.radioButton2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.radioButton2.Name = "radioButton2";
-            this.radioButton2.Size = new System.Drawing.Size(87, 35);
+            this.radioButton2.Size = new System.Drawing.Size(73, 29);
             this.radioButton2.TabIndex = 41;
             this.radioButton2.TabStop = true;
             this.radioButton2.Text = "午餐";
@@ -290,9 +298,10 @@
             // 
             this.radioButton3.AutoSize = true;
             this.radioButton3.Font = new System.Drawing.Font("微軟正黑體", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.radioButton3.Location = new System.Drawing.Point(487, 163);
+            this.radioButton3.Location = new System.Drawing.Point(433, 136);
+            this.radioButton3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.radioButton3.Name = "radioButton3";
-            this.radioButton3.Size = new System.Drawing.Size(87, 35);
+            this.radioButton3.Size = new System.Drawing.Size(73, 29);
             this.radioButton3.TabIndex = 42;
             this.radioButton3.TabStop = true;
             this.radioButton3.Text = "晚餐";
@@ -303,9 +312,10 @@
             // 
             this.radioButton4.AutoSize = true;
             this.radioButton4.Font = new System.Drawing.Font("微軟正黑體", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.radioButton4.Location = new System.Drawing.Point(577, 161);
+            this.radioButton4.Location = new System.Drawing.Point(513, 134);
+            this.radioButton4.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.radioButton4.Name = "radioButton4";
-            this.radioButton4.Size = new System.Drawing.Size(87, 35);
+            this.radioButton4.Size = new System.Drawing.Size(73, 29);
             this.radioButton4.TabIndex = 43;
             this.radioButton4.TabStop = true;
             this.radioButton4.Text = "飲料";
@@ -316,9 +326,10 @@
             // 
             this.radioButton5.AutoSize = true;
             this.radioButton5.Font = new System.Drawing.Font("微軟正黑體", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.radioButton5.Location = new System.Drawing.Point(670, 161);
+            this.radioButton5.Location = new System.Drawing.Point(596, 134);
+            this.radioButton5.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.radioButton5.Name = "radioButton5";
-            this.radioButton5.Size = new System.Drawing.Size(87, 35);
+            this.radioButton5.Size = new System.Drawing.Size(73, 29);
             this.radioButton5.TabIndex = 44;
             this.radioButton5.TabStop = true;
             this.radioButton5.Text = "點心";
@@ -329,9 +340,10 @@
             // 
             this.radioButton6.AutoSize = true;
             this.radioButton6.Font = new System.Drawing.Font("微軟正黑體", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.radioButton6.Location = new System.Drawing.Point(763, 161);
+            this.radioButton6.Location = new System.Drawing.Point(678, 134);
+            this.radioButton6.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.radioButton6.Name = "radioButton6";
-            this.radioButton6.Size = new System.Drawing.Size(87, 35);
+            this.radioButton6.Size = new System.Drawing.Size(73, 29);
             this.radioButton6.TabIndex = 45;
             this.radioButton6.TabStop = true;
             this.radioButton6.Text = "宵夜";
@@ -342,9 +354,10 @@
             // 
             this.radioButton7.AutoSize = true;
             this.radioButton7.Font = new System.Drawing.Font("微軟正黑體", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.radioButton7.Location = new System.Drawing.Point(298, 220);
+            this.radioButton7.Location = new System.Drawing.Point(265, 183);
+            this.radioButton7.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.radioButton7.Name = "radioButton7";
-            this.radioButton7.Size = new System.Drawing.Size(87, 35);
+            this.radioButton7.Size = new System.Drawing.Size(73, 29);
             this.radioButton7.TabIndex = 46;
             this.radioButton7.TabStop = true;
             this.radioButton7.Text = "汽油";
@@ -355,9 +368,10 @@
             // 
             this.radioButton8.AutoSize = true;
             this.radioButton8.Font = new System.Drawing.Font("微軟正黑體", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.radioButton8.Location = new System.Drawing.Point(394, 220);
+            this.radioButton8.Location = new System.Drawing.Point(350, 183);
+            this.radioButton8.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.radioButton8.Name = "radioButton8";
-            this.radioButton8.Size = new System.Drawing.Size(87, 35);
+            this.radioButton8.Size = new System.Drawing.Size(73, 29);
             this.radioButton8.TabIndex = 47;
             this.radioButton8.TabStop = true;
             this.radioButton8.Text = "公車";
@@ -368,9 +382,10 @@
             // 
             this.radioButton9.AutoSize = true;
             this.radioButton9.Font = new System.Drawing.Font("微軟正黑體", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.radioButton9.Location = new System.Drawing.Point(487, 218);
+            this.radioButton9.Location = new System.Drawing.Point(433, 182);
+            this.radioButton9.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.radioButton9.Name = "radioButton9";
-            this.radioButton9.Size = new System.Drawing.Size(87, 35);
+            this.radioButton9.Size = new System.Drawing.Size(73, 29);
             this.radioButton9.TabIndex = 48;
             this.radioButton9.TabStop = true;
             this.radioButton9.Text = "捷運";
@@ -381,9 +396,10 @@
             // 
             this.radioButton10.AutoSize = true;
             this.radioButton10.Font = new System.Drawing.Font("微軟正黑體", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.radioButton10.Location = new System.Drawing.Point(577, 218);
+            this.radioButton10.Location = new System.Drawing.Point(513, 182);
+            this.radioButton10.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.radioButton10.Name = "radioButton10";
-            this.radioButton10.Size = new System.Drawing.Size(87, 35);
+            this.radioButton10.Size = new System.Drawing.Size(73, 29);
             this.radioButton10.TabIndex = 49;
             this.radioButton10.TabStop = true;
             this.radioButton10.Text = "火車";
@@ -394,12 +410,13 @@
             // 
             this.radioButton11.AutoSize = true;
             this.radioButton11.Font = new System.Drawing.Font("微軟正黑體", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.radioButton11.Location = new System.Drawing.Point(670, 218);
+            this.radioButton11.Location = new System.Drawing.Point(596, 182);
+            this.radioButton11.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.radioButton11.Name = "radioButton11";
-            this.radioButton11.Size = new System.Drawing.Size(87, 35);
+            this.radioButton11.Size = new System.Drawing.Size(133, 29);
             this.radioButton11.TabIndex = 50;
             this.radioButton11.TabStop = true;
-            this.radioButton11.Text = "其他";
+            this.radioButton11.Text = "其他（交）";
             this.radioButton11.UseVisualStyleBackColor = true;
             this.radioButton11.CheckedChanged += new System.EventHandler(this.radioButton11_CheckedChanged);
             // 
@@ -407,9 +424,10 @@
             // 
             this.radioButton12.AutoSize = true;
             this.radioButton12.Font = new System.Drawing.Font("微軟正黑體", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.radioButton12.Location = new System.Drawing.Point(298, 277);
+            this.radioButton12.Location = new System.Drawing.Point(265, 231);
+            this.radioButton12.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.radioButton12.Name = "radioButton12";
-            this.radioButton12.Size = new System.Drawing.Size(87, 35);
+            this.radioButton12.Size = new System.Drawing.Size(73, 29);
             this.radioButton12.TabIndex = 51;
             this.radioButton12.TabStop = true;
             this.radioButton12.Text = "電影";
@@ -420,9 +438,10 @@
             // 
             this.radioButton13.AutoSize = true;
             this.radioButton13.Font = new System.Drawing.Font("微軟正黑體", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.radioButton13.Location = new System.Drawing.Point(394, 277);
+            this.radioButton13.Location = new System.Drawing.Point(350, 231);
+            this.radioButton13.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.radioButton13.Name = "radioButton13";
-            this.radioButton13.Size = new System.Drawing.Size(87, 35);
+            this.radioButton13.Size = new System.Drawing.Size(73, 29);
             this.radioButton13.TabIndex = 52;
             this.radioButton13.TabStop = true;
             this.radioButton13.Text = "衣著";
@@ -433,9 +452,10 @@
             // 
             this.radioButton14.AutoSize = true;
             this.radioButton14.Font = new System.Drawing.Font("微軟正黑體", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.radioButton14.Location = new System.Drawing.Point(487, 275);
+            this.radioButton14.Location = new System.Drawing.Point(433, 229);
+            this.radioButton14.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.radioButton14.Name = "radioButton14";
-            this.radioButton14.Size = new System.Drawing.Size(87, 35);
+            this.radioButton14.Size = new System.Drawing.Size(73, 29);
             this.radioButton14.TabIndex = 53;
             this.radioButton14.TabStop = true;
             this.radioButton14.Text = "旅遊";
@@ -446,12 +466,13 @@
             // 
             this.radioButton15.AutoSize = true;
             this.radioButton15.Font = new System.Drawing.Font("微軟正黑體", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.radioButton15.Location = new System.Drawing.Point(577, 275);
+            this.radioButton15.Location = new System.Drawing.Point(513, 229);
+            this.radioButton15.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.radioButton15.Name = "radioButton15";
-            this.radioButton15.Size = new System.Drawing.Size(87, 35);
+            this.radioButton15.Size = new System.Drawing.Size(133, 29);
             this.radioButton15.TabIndex = 54;
             this.radioButton15.TabStop = true;
-            this.radioButton15.Text = "其他";
+            this.radioButton15.Text = "其他（娛）";
             this.radioButton15.UseVisualStyleBackColor = true;
             this.radioButton15.CheckedChanged += new System.EventHandler(this.radioButton15_CheckedChanged);
             // 
@@ -459,9 +480,10 @@
             // 
             this.radioButton16.AutoSize = true;
             this.radioButton16.Font = new System.Drawing.Font("微軟正黑體", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.radioButton16.Location = new System.Drawing.Point(298, 330);
+            this.radioButton16.Location = new System.Drawing.Point(265, 275);
+            this.radioButton16.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.radioButton16.Name = "radioButton16";
-            this.radioButton16.Size = new System.Drawing.Size(87, 35);
+            this.radioButton16.Size = new System.Drawing.Size(73, 29);
             this.radioButton16.TabIndex = 55;
             this.radioButton16.TabStop = true;
             this.radioButton16.Text = "房租";
@@ -472,9 +494,10 @@
             // 
             this.radioButton17.AutoSize = true;
             this.radioButton17.Font = new System.Drawing.Font("微軟正黑體", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.radioButton17.Location = new System.Drawing.Point(394, 330);
+            this.radioButton17.Location = new System.Drawing.Point(350, 275);
+            this.radioButton17.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.radioButton17.Name = "radioButton17";
-            this.radioButton17.Size = new System.Drawing.Size(87, 35);
+            this.radioButton17.Size = new System.Drawing.Size(73, 29);
             this.radioButton17.TabIndex = 56;
             this.radioButton17.TabStop = true;
             this.radioButton17.Text = "電信";
@@ -485,9 +508,10 @@
             // 
             this.radioButton18.AutoSize = true;
             this.radioButton18.Font = new System.Drawing.Font("微軟正黑體", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.radioButton18.Location = new System.Drawing.Point(487, 328);
+            this.radioButton18.Location = new System.Drawing.Point(433, 273);
+            this.radioButton18.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.radioButton18.Name = "radioButton18";
-            this.radioButton18.Size = new System.Drawing.Size(87, 35);
+            this.radioButton18.Size = new System.Drawing.Size(73, 29);
             this.radioButton18.TabIndex = 57;
             this.radioButton18.TabStop = true;
             this.radioButton18.Text = "水電";
@@ -498,12 +522,13 @@
             // 
             this.radioButton19.AutoSize = true;
             this.radioButton19.Font = new System.Drawing.Font("微軟正黑體", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.radioButton19.Location = new System.Drawing.Point(577, 328);
+            this.radioButton19.Location = new System.Drawing.Point(513, 273);
+            this.radioButton19.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.radioButton19.Name = "radioButton19";
-            this.radioButton19.Size = new System.Drawing.Size(87, 35);
+            this.radioButton19.Size = new System.Drawing.Size(133, 29);
             this.radioButton19.TabIndex = 58;
             this.radioButton19.TabStop = true;
-            this.radioButton19.Text = "其他";
+            this.radioButton19.Text = "其他（生）";
             this.radioButton19.UseVisualStyleBackColor = true;
             this.radioButton19.CheckedChanged += new System.EventHandler(this.radioButton19_CheckedChanged);
             // 
@@ -511,9 +536,10 @@
             // 
             this.radioButton20.AutoSize = true;
             this.radioButton20.Font = new System.Drawing.Font("微軟正黑體", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.radioButton20.Location = new System.Drawing.Point(298, 390);
+            this.radioButton20.Location = new System.Drawing.Point(265, 325);
+            this.radioButton20.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.radioButton20.Name = "radioButton20";
-            this.radioButton20.Size = new System.Drawing.Size(87, 35);
+            this.radioButton20.Size = new System.Drawing.Size(73, 29);
             this.radioButton20.TabIndex = 59;
             this.radioButton20.TabStop = true;
             this.radioButton20.Text = "薪資";
@@ -524,9 +550,10 @@
             // 
             this.radioButton21.AutoSize = true;
             this.radioButton21.Font = new System.Drawing.Font("微軟正黑體", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.radioButton21.Location = new System.Drawing.Point(394, 390);
+            this.radioButton21.Location = new System.Drawing.Point(350, 325);
+            this.radioButton21.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.radioButton21.Name = "radioButton21";
-            this.radioButton21.Size = new System.Drawing.Size(87, 35);
+            this.radioButton21.Size = new System.Drawing.Size(73, 29);
             this.radioButton21.TabIndex = 60;
             this.radioButton21.TabStop = true;
             this.radioButton21.Text = "獎金";
@@ -538,9 +565,9 @@
             this.lblin.AutoSize = true;
             this.lblin.Font = new System.Drawing.Font("微軟正黑體", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.lblin.ForeColor = System.Drawing.Color.DarkCyan;
-            this.lblin.Location = new System.Drawing.Point(144, 388);
+            this.lblin.Location = new System.Drawing.Point(128, 323);
             this.lblin.Name = "lblin";
-            this.lblin.Size = new System.Drawing.Size(71, 36);
+            this.lblin.Size = new System.Drawing.Size(62, 31);
             this.lblin.TabIndex = 61;
             this.lblin.Text = "收入";
             // 
@@ -548,18 +575,18 @@
             // 
             this.label8.AutoSize = true;
             this.label8.Font = new System.Drawing.Font("微軟正黑體", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.label8.Location = new System.Drawing.Point(438, 470);
+            this.label8.Location = new System.Drawing.Point(389, 392);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(43, 36);
+            this.label8.Size = new System.Drawing.Size(38, 31);
             this.label8.TabIndex = 62;
             this.label8.Text = "元";
             // 
             // Form3
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 18F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
-            this.ClientSize = new System.Drawing.Size(928, 644);
+            this.ClientSize = new System.Drawing.Size(825, 537);
             this.Controls.Add(this.label8);
             this.Controls.Add(this.lblin);
             this.Controls.Add(this.radioButton21);
@@ -601,6 +628,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.txtmoney);
             this.Controls.Add(this.label1);
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "Form3";
             this.Text = "Form3";
             this.Load += new System.EventHandler(this.Form3_Load);

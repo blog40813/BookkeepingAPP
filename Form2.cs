@@ -207,7 +207,7 @@ namespace AccountingApp
 
             List<string> find = new List<string>();
             if (target_category == "食物"|| target_category == "交通" || target_category == "娛樂" || 
-                target_category == "生活" || target_category == "收入" )
+                target_category == "生活" || target_category == "收入" || target_category == "支出")
             {
                find = categories.FindSubcategories(target_category);
             }
@@ -265,7 +265,8 @@ namespace AccountingApp
 
             if (target_category == "支出")
             {
-                for (int i = 1; i < 24; i++)
+                Console.WriteLine("in　outcome");
+                for (int i = 1; i < 25; i++)
                 {
                     find_categories.Add(_categories[i]);
                 }

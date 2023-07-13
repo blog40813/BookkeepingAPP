@@ -41,10 +41,10 @@
             this.comboBox1.Font = new System.Drawing.Font("微軟正黑體", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.comboBox1.ForeColor = System.Drawing.Color.SeaGreen;
             this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(606, 88);
+            this.comboBox1.Location = new System.Drawing.Point(539, 73);
             this.comboBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(201, 39);
+            this.comboBox1.Size = new System.Drawing.Size(179, 33);
             this.comboBox1.TabIndex = 0;
             this.comboBox1.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
             // 
@@ -53,32 +53,31 @@
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("微軟正黑體", 12F, System.Drawing.FontStyle.Bold);
             this.label1.ForeColor = System.Drawing.Color.SeaGreen;
-            this.label1.Location = new System.Drawing.Point(526, 91);
+            this.label1.Location = new System.Drawing.Point(468, 76);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(74, 31);
+            this.label1.Size = new System.Drawing.Size(62, 25);
             this.label1.TabIndex = 1;
             this.label1.Text = "查詢 :";
             // 
             // textBox1
             // 
             this.textBox1.ForeColor = System.Drawing.Color.SeaGreen;
-            this.textBox1.Location = new System.Drawing.Point(12, 88);
-            this.textBox1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.textBox1.MaximumSize = new System.Drawing.Size(562, 359);
+            this.textBox1.Location = new System.Drawing.Point(11, 73);
+            this.textBox1.MaximumSize = new System.Drawing.Size(500, 300);
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(504, 359);
+            this.textBox1.Size = new System.Drawing.Size(448, 300);
             this.textBox1.TabIndex = 4;
             // 
             // listBox1
             // 
             this.listBox1.ForeColor = System.Drawing.Color.DarkGreen;
             this.listBox1.FormattingEnabled = true;
-            this.listBox1.ItemHeight = 18;
-            this.listBox1.Location = new System.Drawing.Point(532, 138);
+            this.listBox1.ItemHeight = 15;
+            this.listBox1.Location = new System.Drawing.Point(462, 114);
             this.listBox1.Margin = new System.Windows.Forms.Padding(0);
             this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(387, 310);
+            this.listBox1.Size = new System.Drawing.Size(355, 259);
             this.listBox1.TabIndex = 5;
             this.listBox1.SelectedIndexChanged += new System.EventHandler(this.listBox1_SelectedIndexChanged);
             // 
@@ -87,10 +86,9 @@
             this.button_delete.Enabled = false;
             this.button_delete.Font = new System.Drawing.Font("微軟正黑體", 12F, System.Drawing.FontStyle.Bold);
             this.button_delete.ForeColor = System.Drawing.Color.SeaGreen;
-            this.button_delete.Location = new System.Drawing.Point(823, 88);
-            this.button_delete.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.button_delete.Location = new System.Drawing.Point(732, 73);
             this.button_delete.Name = "button_delete";
-            this.button_delete.Size = new System.Drawing.Size(96, 39);
+            this.button_delete.Size = new System.Drawing.Size(85, 32);
             this.button_delete.TabIndex = 6;
             this.button_delete.Text = "刪除";
             this.button_delete.UseVisualStyleBackColor = true;
@@ -100,10 +98,9 @@
             // 
             this.button_main.Font = new System.Drawing.Font("微軟正黑體", 18F, System.Drawing.FontStyle.Bold);
             this.button_main.ForeColor = System.Drawing.Color.SeaGreen;
-            this.button_main.Location = new System.Drawing.Point(341, 468);
-            this.button_main.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.button_main.Location = new System.Drawing.Point(303, 390);
             this.button_main.Name = "button_main";
-            this.button_main.Size = new System.Drawing.Size(259, 61);
+            this.button_main.Size = new System.Drawing.Size(230, 51);
             this.button_main.TabIndex = 7;
             this.button_main.Text = "回首頁";
             this.button_main.UseVisualStyleBackColor = true;
@@ -111,9 +108,9 @@
             // 
             // Form4
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 18F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(928, 644);
+            this.ClientSize = new System.Drawing.Size(825, 537);
             this.Controls.Add(this.button_main);
             this.Controls.Add(this.button_delete);
             this.Controls.Add(this.listBox1);
