@@ -30,7 +30,7 @@ git clone https://github.com/blog40813/BookkeepingAPP.git
 <img src= "./image/login_error_1.png" align =left>
 <img src= "./image/login_error_2.png" align =left>
 <img src= https://github.com/blog40813/BookkeepingAPP/blob/master/image/login_error_3.png align =left>
-<img src= https://github.com/blog40813/BookkeepingAPP/blob/master/image/register.png >
+<img src= https://github.com/blog40813/BookkeepingAPP/blob/master/image/register.png align =left>
 
 
 ## form2.cs 程式頁面
