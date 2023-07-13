@@ -1,0 +1,54 @@
+C:\Users\Sky Sky Sky\OneDrive\桌面\AccountingApp\bin\Debug\AccountingApp.exe.config
+C:\Users\Sky Sky Sky\OneDrive\桌面\AccountingApp\bin\Debug\AccountingApp.exe
+C:\Users\Sky Sky Sky\OneDrive\桌面\AccountingApp\bin\Debug\AccountingApp.pdb
+C:\Users\Sky Sky Sky\OneDrive\桌面\AccountingApp\obj\Debug\AccountingApp.csprojAssemblyReference.cache
+C:\Users\Sky Sky Sky\OneDrive\桌面\AccountingApp\obj\Debug\AccountingApp.Form1.resources
+C:\Users\Sky Sky Sky\OneDrive\桌面\AccountingApp\obj\Debug\AccountingApp.Form2.resources
+C:\Users\Sky Sky Sky\OneDrive\桌面\AccountingApp\obj\Debug\AccountingApp.Properties.Resources.resources
+C:\Users\Sky Sky Sky\OneDrive\桌面\AccountingApp\obj\Debug\AccountingApp.csproj.GenerateResource.cache
+C:\Users\Sky Sky Sky\OneDrive\桌面\AccountingApp\obj\Debug\AccountingApp.csproj.CoreCompileInputs.cache
+C:\Users\Sky Sky Sky\OneDrive\桌面\AccountingApp\obj\Debug\AccountingApp.exe
+C:\Users\Sky Sky Sky\OneDrive\桌面\AccountingApp\obj\Debug\AccountingApp.pdb
+C:\Users\Sky Sky Sky\OneDrive\桌面\AccountingApp\obj\Debug\AccountingApp.Form3.resources
+C:\Users\Sky Sky Sky\OneDrive\桌面\AccountingApp\obj\Debug\AccountingApp.Form4.resources
+C:\Users\blog4\Desktop\college\大四下\程式設計與應用\project\AccountingApp\bin\Debug\AccountingApp.exe.config
+C:\Users\blog4\Desktop\college\大四下\程式設計與應用\project\AccountingApp\bin\Debug\AccountingApp.exe
+C:\Users\blog4\Desktop\college\大四下\程式設計與應用\project\AccountingApp\bin\Debug\AccountingApp.pdb
+C:\Users\blog4\Desktop\college\大四下\程式設計與應用\project\AccountingApp\obj\Debug\AccountingApp.csproj.AssemblyReference.cache
+C:\Users\blog4\Desktop\college\大四下\程式設計與應用\project\AccountingApp\obj\Debug\AccountingApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\blog4\Desktop\college\大四下\程式設計與應用\project\AccountingApp\obj\Debug\AccountingApp.Form1.resources
+C:\Users\blog4\Desktop\college\大四下\程式設計與應用\project\AccountingApp\obj\Debug\AccountingApp.Form2.resources
+C:\Users\blog4\Desktop\college\大四下\程式設計與應用\project\AccountingApp\obj\Debug\AccountingApp.Form3.resources
+C:\Users\blog4\Desktop\college\大四下\程式設計與應用\project\AccountingApp\obj\Debug\AccountingApp.Form4.resources
+C:\Users\blog4\Desktop\college\大四下\程式設計與應用\project\AccountingApp\obj\Debug\AccountingApp.Properties.Resources.resources
+C:\Users\blog4\Desktop\college\大四下\程式設計與應用\project\AccountingApp\obj\Debug\AccountingApp.csproj.GenerateResource.cache
+C:\Users\blog4\Desktop\college\大四下\程式設計與應用\project\AccountingApp\obj\Debug\AccountingApp.csproj.CoreCompileInputs.cache
+C:\Users\blog4\Desktop\college\大四下\程式設計與應用\project\AccountingApp\obj\Debug\AccountingApp.exe
+C:\Users\blog4\Desktop\college\大四下\程式設計與應用\project\AccountingApp\obj\Debug\AccountingApp.pdb
+C:\Users\user\Downloads\AccountingApp_ver_0523\AccountingApp\bin\Debug\AccountingApp.exe.config
+C:\Users\user\Downloads\AccountingApp_ver_0523\AccountingApp\bin\Debug\AccountingApp.exe
+C:\Users\user\Downloads\AccountingApp_ver_0523\AccountingApp\bin\Debug\AccountingApp.pdb
+C:\Users\user\Downloads\AccountingApp_ver_0523\AccountingApp\obj\Debug\AccountingApp.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\AccountingApp_ver_0523\AccountingApp\obj\Debug\AccountingApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Downloads\AccountingApp_ver_0523\AccountingApp\obj\Debug\AccountingApp.Form1.resources
+C:\Users\user\Downloads\AccountingApp_ver_0523\AccountingApp\obj\Debug\AccountingApp.Form2.resources
+C:\Users\user\Downloads\AccountingApp_ver_0523\AccountingApp\obj\Debug\AccountingApp.Form3.resources
+C:\Users\user\Downloads\AccountingApp_ver_0523\AccountingApp\obj\Debug\AccountingApp.Form4.resources
+C:\Users\user\Downloads\AccountingApp_ver_0523\AccountingApp\obj\Debug\AccountingApp.Properties.Resources.resources
+C:\Users\user\Downloads\AccountingApp_ver_0523\AccountingApp\obj\Debug\AccountingApp.csproj.GenerateResource.cache
+C:\Users\user\Downloads\AccountingApp_ver_0523\AccountingApp\obj\Debug\AccountingApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\AccountingApp_ver_0523\AccountingApp\obj\Debug\AccountingApp.exe
+C:\Users\user\Downloads\AccountingApp_ver_0523\AccountingApp\obj\Debug\AccountingApp.pdb
+C:\Users\Sky Sky Sky\Downloads\AccountingApp_ver_0524\AccountingApp_ver_0524\AccountingApp\bin\Debug\AccountingApp.exe.config
+C:\Users\Sky Sky Sky\Downloads\AccountingApp_ver_0524\AccountingApp_ver_0524\AccountingApp\bin\Debug\AccountingApp.exe
+C:\Users\Sky Sky Sky\Downloads\AccountingApp_ver_0524\AccountingApp_ver_0524\AccountingApp\bin\Debug\AccountingApp.pdb
+C:\Users\Sky Sky Sky\Downloads\AccountingApp_ver_0524\AccountingApp_ver_0524\AccountingApp\obj\Debug\AccountingApp.csprojAssemblyReference.cache
+C:\Users\Sky Sky Sky\Downloads\AccountingApp_ver_0524\AccountingApp_ver_0524\AccountingApp\obj\Debug\AccountingApp.Form1.resources
+C:\Users\Sky Sky Sky\Downloads\AccountingApp_ver_0524\AccountingApp_ver_0524\AccountingApp\obj\Debug\AccountingApp.Form2.resources
+C:\Users\Sky Sky Sky\Downloads\AccountingApp_ver_0524\AccountingApp_ver_0524\AccountingApp\obj\Debug\AccountingApp.Form3.resources
+C:\Users\Sky Sky Sky\Downloads\AccountingApp_ver_0524\AccountingApp_ver_0524\AccountingApp\obj\Debug\AccountingApp.Form4.resources
+C:\Users\Sky Sky Sky\Downloads\AccountingApp_ver_0524\AccountingApp_ver_0524\AccountingApp\obj\Debug\AccountingApp.Properties.Resources.resources
+C:\Users\Sky Sky Sky\Downloads\AccountingApp_ver_0524\AccountingApp_ver_0524\AccountingApp\obj\Debug\AccountingApp.csproj.GenerateResource.cache
+C:\Users\Sky Sky Sky\Downloads\AccountingApp_ver_0524\AccountingApp_ver_0524\AccountingApp\obj\Debug\AccountingApp.csproj.CoreCompileInputs.cache
+C:\Users\Sky Sky Sky\Downloads\AccountingApp_ver_0524\AccountingApp_ver_0524\AccountingApp\obj\Debug\AccountingApp.exe
+C:\Users\Sky Sky Sky\Downloads\AccountingApp_ver_0524\AccountingApp_ver_0524\AccountingApp\obj\Debug\AccountingApp.pdb
