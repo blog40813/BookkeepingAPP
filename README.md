@@ -24,13 +24,22 @@ git clone https://github.com/blog40813/BookkeepingAPP.git
 `
 下圖是幾個會出現的提示框
 `
-  
-<img src= "./image/login_error_1.png" align =left>
-<img src= "./image/login_error_2.png" align =left>
-<img src= https://github.com/blog40813/BookkeepingAPP/blob/master/image/login_error_3.png align =left>
+
+<br>
+
+![image](https://github.com/blog40813/BookkeepingAPP/blob/master/image/login_error_1.png)
+![image](https://github.com/blog40813/BookkeepingAPP/blob/master/image/login_error_2.png)
+![image](https://github.com/blog40813/BookkeepingAPP/blob/master/image/login_error_3.png)
 <img src= https://github.com/blog40813/BookkeepingAPP/blob/master/image/register.png width ="30%">
 <br>
 
+<!-- 
+<img src= "./image/login_error_1.png" >
+<img src= "./image/login_error_2.png" > 
+<img src= https://github.com/blog40813/BookkeepingAPP/blob/master/image/login_error_3.png >
+-->
+
+<br>
 
 ### form2.cs 程式頁面
 
